@@ -3,7 +3,7 @@ import com.openai.client.okhttp.OpenAIOkHttpClient;
 import com.openai.models.responses.Response;
 import com.openai.models.responses.ResponseCreateParams;
 
-public class Basic {
+class Basic {
     public static void main(String[] args) {
         OpenAIClient client = OpenAIOkHttpClient.fromEnv();
 
