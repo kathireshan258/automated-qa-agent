@@ -33,6 +33,13 @@
             <version>${openai.version}</version>
         </dependency>
 
+        <!-- Official Google GenAI SDK for Gemini API -->
+        <dependency>
+            <groupId>com.google.genai</groupId>
+            <artifactId>google-genai</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
         <!-- JUnit 5 Testing Framework -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
