@@ -1,0 +1,9 @@
+As a registered user,
+            I want to login to the website with valid credentials
+            so that I can access my dashboard.
+
+            Acceptance Criteria:
+            - Navigate to https://opensource-demo.orangehrmlive.com/
+            - verify page title
+            - Enter valid username and password
+            - Verify successful login by checking dashboard visibility or page title
